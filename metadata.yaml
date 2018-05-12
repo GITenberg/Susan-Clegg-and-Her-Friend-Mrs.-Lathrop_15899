@@ -1,0 +1,33 @@
+_repo: Susan-Clegg-and-Her-Friend-Mrs.-Lathrop_15899
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15899-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Warner, Anne
+    aliases:
+    - French, Anne Warner
+    - French, Anne Richmond Warner
+    - French, Anna Richmond Warner
+    birthdate: 1869
+    deathdate: 1913
+    gutenberg_agent_id: '6279'
+    url: http://www.gutenberg.org/2009/agents/6279
+description: ''
+gutenberg_issued: '2005-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Humorous stories'
+tableOfContents: The marrying of Susan Clegg -- Miss Clegg's adopted -- Jathrop Lathrop's
+  cow -- Susan Clegg's cousin Marion -- The minister's vacation.
+title: Susan Clegg and Her Friend Mrs. Lathrop
+url: http://www.gutenberg.org/ebooks/15899
